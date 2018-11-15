@@ -19,3 +19,7 @@ resources/assets/vendors/
 /public/images
 /public/img
 /public/mix-manifest.json
+public/css/
+public/fonts/
+public/static/
+public/images/*
