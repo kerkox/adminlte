@@ -93,6 +93,9 @@
       }
     },
     methods: {
+      enviar(){
+        console.log("Se esta enviando los datos al servidor");
+      },
       submit () {
         this.form.post('/login')
           .then(response => {

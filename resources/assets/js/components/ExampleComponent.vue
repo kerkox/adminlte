@@ -8,6 +8,8 @@
                     <div class="card-body">
                         I'm an example component.
                     </div>
+                    <div class="tabla">
+                    </div>
                 </div>
             </div>
         </div>
@@ -21,3 +23,8 @@
         }
     }
 </script>
+<style>
+.tabla{
+
+}
+</style>
